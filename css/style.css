@@ -1,0 +1,33 @@
+.container > h1 {
+  display: none;
+}
+
+.project {
+  list-style: none;
+  margin-bottom: 20px;
+}
+.project .title {
+  margin: 0;
+  font-size: 1.5em;
+}
+.project .description {
+  margin: 0;
+  color: #666;
+}
+
+.sidebar {
+}
+
+.footer {
+  margin: 50px 0 0 0;
+  text-align: center;
+}
+.footer li {
+  list-style: none;
+  display: inline;
+  padding: 0 30px;
+}
+.footer li a {
+  color: #aaa;
+  text-decoration: none;
+}
